@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0072/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 川
+  hash: sha256:b5aae693581d12c80a2a190583804d097a4dc9eb092b7f8fa06262538285f54b
+metadata:
+  title: 樊川文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:36:29.690943'
+  source:
+    repository: kanripo
+    path: KR4c0072/KR4c0072_002.txt
+hash: sha256:1aea45c152b2ce095cced3c89e89b6876271638274d83b612a22c6c4baa0b969
