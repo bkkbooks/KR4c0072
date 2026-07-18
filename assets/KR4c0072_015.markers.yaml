@@ -364,6 +364,7 @@ markers:
       ', id: KR4c0072_krp_015-bkkkrnewl59}
   - {type: line-break, offset: 930, content: '', id: KR4c0072_SBCK_015-3b05}
   - {type: punctuation, offset: 937, content: (, id: KR4c0072_krp_015-bkkpn1}
+  - {type: voice, offset: 937, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 939, content: ), id: KR4c0072_krp_015-bkkpn2}
   - {type: substitution, offset: 944, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: 'kr:newline', offset: 948, content: '
@@ -1928,4 +1929,4 @@ markers:
 
       ', id: KR4c0072_krp_015-bkkkrnewl318}
   back: []
-hash: sha256:8cc197bd7beaf46eaa4bc1f65e7b83e6505c59ed286a84b8d7dc1c9642871462
+hash: sha256:52ee3b99c425abbe68e755c6526d965bfec88d96b9a9460b97f310ec405f3bf4

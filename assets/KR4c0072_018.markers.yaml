@@ -608,6 +608,7 @@ markers:
   - {type: variant, offset: 1606, length: 1, content: 倚, SBCK: 􅀝}
   - {type: punctuation, offset: 1608, content: (, id: KR4c0072_krp_018-bkkpn1}
   - {type: variant, offset: 1608, length: 5, content: 一本作盡節, WYG: ''}
+  - {type: voice, offset: 1608, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 1611, content: /, id: KR4c0072_krp_018-bkkpn2}
   - {type: punctuation, offset: 1612, content: /, id: KR4c0072_krp_018-bkkpn3}
   - {type: punctuation, offset: 1613, content: ), id: KR4c0072_krp_018-bkkpn4}
@@ -1749,4 +1750,4 @@ markers:
 
       ', id: KR4c0072_krp_018-bkkkrnewl295}
   back: []
-hash: sha256:b4a8b318c6929d414a115ff24abe90d7e836e3fb4516d3d9353bf8d03f020513
+hash: sha256:75c4e0ab3a5e40466b8212d764498d631fb1f8ce35a77f8eaf2c444f9e52ea11

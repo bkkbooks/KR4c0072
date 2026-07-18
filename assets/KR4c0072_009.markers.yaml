@@ -986,6 +986,7 @@ markers:
   - {type: variant, offset: 2390, length: 1, content: 㫁, WYG: 斷}
   - {type: substitution, offset: 2390, original: 㫁, replacement: 斷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20030}}
   - {type: punctuation, offset: 2391, content: (, id: KR4c0072_krp_009-bkkpn1}
+  - {type: voice, offset: 2391, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2392, content: /, id: KR4c0072_krp_009-bkkpn2}
   - {type: punctuation, offset: 2393, content: ), id: KR4c0072_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 2394, content: '
@@ -1020,6 +1021,7 @@ markers:
   - {type: line-break, offset: 2430, content: '', id: KR4c0072_SBCK_009-8a03}
   - {type: punctuation, offset: 2437, content: (, id: KR4c0072_krp_009-bkkpn4}
   - {type: variant, offset: 2437, length: 4, content: 音戯首萦, WYG: 前縈}
+  - {type: voice, offset: 2437, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2438, content: /, id: KR4c0072_krp_009-bkkpn5}
   - {type: substitution, offset: 2438, original: 戯, replacement: 戲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16426}}
   - {type: punctuation, offset: 2439, content: ), id: KR4c0072_krp_009-bkkpn6}
@@ -1065,6 +1067,7 @@ markers:
   - {type: substitution, offset: 2540, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 2542, content: (, id: KR4c0072_krp_009-bkkpn7}
   - {type: variant, offset: 2542, length: 2, content: 并序, WYG: ''}
+  - {type: voice, offset: 2542, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2544, content: ), id: KR4c0072_krp_009-bkkpn8}
   - {type: 'kr:newline', offset: 2544, content: '
 
@@ -1595,4 +1598,4 @@ markers:
   - {type: page-break, offset: 3941, content: '', id: KR4c0072_WYG_006-15b, image: WYG1081/WYG1081-0604b.png}
   - {type: page-break, offset: 3941, content: '', id: KR4c0072_WYG_007-1a, image: WYG1081/WYG1081-0604c.png}
   back: []
-hash: sha256:5787cedca441d0f3e386239f9cc97affd292a6e8a7d60d4e1d320ef82141cc20
+hash: sha256:e7fb09262c9fef3a642115c97996d1105bc32877133f63066ec1a1aa72ccb18c

@@ -163,6 +163,7 @@ markers:
   - {type: substitution, offset: 397, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 403, content: (, id: KR4c0072_krp_008-bkkpn1}
   - {type: variant, offset: 403, length: 2, content: 尹試, WYG: ''}
+  - {type: voice, offset: 403, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 404, content: /, id: KR4c0072_krp_008-bkkpn2}
   - {type: punctuation, offset: 405, content: ), id: KR4c0072_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 416, content: '
@@ -360,6 +361,7 @@ markers:
   - {type: variant, offset: 884, length: 1, content: 稱, SBCK: 􅁛}
   - {type: punctuation, offset: 887, content: (, id: KR4c0072_krp_008-bkkpn4}
   - {type: variant, offset: 887, length: 4, content: 士力反爲, WYG: 為}
+  - {type: voice, offset: 887, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 889, content: /, id: KR4c0072_krp_008-bkkpn5}
   - {type: punctuation, offset: 890, content: ), id: KR4c0072_krp_008-bkkpn6}
   - {type: substitution, offset: 890, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -1433,6 +1435,7 @@ markers:
   - {type: substitution, offset: 3568, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 3570, content: (, id: KR4c0072_krp_008-bkkpn7}
   - {type: variant, offset: 3570, length: 2, content: 并序, WYG: ''}
+  - {type: voice, offset: 3570, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3572, content: ), id: KR4c0072_krp_008-bkkpn8}
   - {type: 'kr:newline', offset: 3572, content: '
 
@@ -1870,4 +1873,4 @@ markers:
 
       ', id: KR4c0072_krp_008-bkkkrnewl290}
   back: []
-hash: sha256:e91925b8b35787dbdfba7a30aa3c4ac6a1f4bc46d45b469e58144af6e915313f
+hash: sha256:6d1f9821ba2f1cc826d52631312dba938adfb0e2f838edc7059e558e7c78e4a0

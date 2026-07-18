@@ -962,6 +962,7 @@ markers:
   - {type: line-break, offset: 2328, content: '', id: KR4c0072_SBCK_010-7b07}
   - {type: punctuation, offset: 2333, content: (, id: KR4c0072_krp_010-bkkpn1}
   - {type: variant, offset: 2333, length: 3, content: 音諫㫁, WYG: 斷}
+  - {type: voice, offset: 2333, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2334, content: /, id: KR4c0072_krp_010-bkkpn2}
   - {type: punctuation, offset: 2335, content: ), id: KR4c0072_krp_010-bkkpn3}
   - {type: substitution, offset: 2335, original: 㫁, replacement: 斷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20030}}
@@ -1538,6 +1539,7 @@ markers:
   - {type: variant, offset: 3791, length: 1, content: 顔, WYG: 顏}
   - {type: punctuation, offset: 3793, content: (, id: KR4c0072_krp_010-bkkpn4}
   - {type: variant, offset: 3793, length: 4, content: 商顔山名, WYG: ''}
+  - {type: voice, offset: 3793, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 3795, content: /, id: KR4c0072_krp_010-bkkpn5}
   - {type: punctuation, offset: 3797, content: ), id: KR4c0072_krp_010-bkkpn6}
   - {type: 'kr:newline', offset: 3801, content: '
@@ -1807,6 +1809,7 @@ markers:
   - {type: substitution, offset: 4463, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17675}}
   - {type: punctuation, offset: 4464, content: (, id: KR4c0072_krp_010-bkkpn7}
   - {type: variant, offset: 4464, length: 8, content: 即故起居郎弘之祖, WYG: ''}
+  - {type: voice, offset: 4464, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 4468, content: /, id: KR4c0072_krp_010-bkkpn8}
   - {type: punctuation, offset: 4472, content: ), id: KR4c0072_krp_010-bkkpn9}
   - {type: page-break, offset: 4473, content: '', id: KR4c0072_WYG_007-15a, image: WYG1081/WYG1081-0611c.png}
@@ -2238,4 +2241,4 @@ markers:
 
       ', id: KR4c0072_krp_010-bkkkrnewl357}
   back: []
-hash: sha256:6c21940d8484f66863d0bcd24387c4d01b6168e9faed841f0610a57eb54ebc90
+hash: sha256:22252dadd0a3fad52efb897cf5e306309f6ac6bdc77485b9f252aed8be5c0916
